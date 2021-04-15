@@ -1,4 +1,4 @@
-# innopolis-test-task
+# Innopolis Test Task
 
 ## Project setup
 ```
